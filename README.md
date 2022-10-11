@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**AnaChaves8/AnaChaves8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Eu sou Ana Chaves
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou trabalhando na Transportadora JP exercendo a função de auxiliar administrativo
+- 🌱 Atualmente sou aluna da Labenu na formação Full Stack Web Development e cursando bacharelado em Engenharia da Computação
+- 😄 Pronouns: ela/dela
+
+<div align="center">
+  <a href="https://github.com/AnaChaves8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaChaves8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaChaves8&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+</a> 
+ 
+  ![Snake animation](https://github.com/AnaChaves8/AnaChaves8/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
