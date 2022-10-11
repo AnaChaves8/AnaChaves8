@@ -1,23 +1,31 @@
 
-### Eu sou Ana Chaves
+<h1 align="center">Olá, Eu sou Ana Chaves</h1>
+<h3 align="center">Full Stack Developer </h3>
 
+<h3 align="left">Sbre mim</h3>
+<p align="left">Formada em Técnico em Informatica para Internete pela EE Doutor Geraldo Parreiras, atualmente sou aluna da Labenu na formação Full Stack Web Development e cursando o 1º periodo do bacharelado em Engenharia da Computação na UFOP</p>
 
-- 🔭 Estou trabalhando na Transportadora JP exercendo a função de auxiliar administrativo
-- 🌱 Atualmente sou aluna da Labenu na formação Full Stack Web Development e cursando bacharelado em Engenharia da Computação
-- 😄 Pronouns: ela/dela
+<h3 align="left">Linguagens e ferramentas</h3>
+<p align="left"> 
 
-<div align="center">
-  <a href="https://github.com/AnaChaves8">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaChaves8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaChaves8&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"width="40" height="40" />       
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br><br>
+<a href="https://github.com/AnaChaves8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaChaves8&theme=dark">
+</a>
+<a href="https://github.com/AnaChaves8">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaChaves8&show_icons=true&theme=dark&line_height=30" alt="Ana Chaves's github stats"/>
+ 
+</a>
+
 
 
