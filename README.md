@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer </h3>
 
 <h3 align="left">Sobre mim</h3>
-<p align="left">Formada em Técnico em Informatica para Internete pela EE Doutor Geraldo Parreiras, atualmente sou aluna da Labenu na formação Full Stack Web Development e cursando o 1º periodo de bacharelado em Engenharia da Computação na UFOP</p>
+<p align="left">Formada em Técnico em Informatica para Internete pela EE Doutor Geraldo Parreiras, atualmente sou aluna da Labenu na formação Full Stack Web Development e cursando o 1º periodo de bacharelado em Engenharia da Computação na Universidade Federal de Ouro Preto</p>
 
 <h3 align="left">Linguagens e ferramentas</h3>
 <p align="left"> 
